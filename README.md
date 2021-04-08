@@ -3,6 +3,13 @@
 
 ⚛️ I was a physicist and data analyst 📈
 
+**Feel free to contact me:**
+- **💼 If you think working with me might be fun**
+- **❓ or if you have questions related to my areas of expertise**
+- **🍿 or if you want a movie suggestion**
+
+
+
 
 
 <!--
