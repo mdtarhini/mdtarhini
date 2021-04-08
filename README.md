@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+💻 I am a web developper
+⚛️ I was a physicist and data analyst 📈
+
+
 
 <!--
 **mdtarhini/mdtarhini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
